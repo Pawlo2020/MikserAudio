@@ -1,0 +1,10 @@
+D:\Projekty\AudioDisplay\bin\Debug\AudioDisplay.dll
+D:\Projekty\AudioDisplay\bin\Debug\AudioDisplay.pdb
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.csproj.CoreCompileInputs.cache
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.dll
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.pdb
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.csproj.GenerateResource.cache
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.csprojAssemblyReference.cache
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.VerticalBar.resources
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.Display.resources
+D:\Projekty\AudioDisplay\obj\Debug\AudioDisplay.Properties.Resources.resources
