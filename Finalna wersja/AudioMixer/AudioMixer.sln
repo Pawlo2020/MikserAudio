@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioMixer", "AudioMixer.csproj", "{6860919F-897C-4020-BD59-3A223C3D3EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioDisplay", "..\AudioDisplay\AudioDisplay.csproj", "{3D7ACF7C-D95E-4EDE-B038-4EBB7F1A4787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6860919F-897C-4020-BD59-3A223C3D3EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6860919F-897C-4020-BD59-3A223C3D3EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6860919F-897C-4020-BD59-3A223C3D3EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6860919F-897C-4020-BD59-3A223C3D3EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7ACF7C-D95E-4EDE-B038-4EBB7F1A4787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7ACF7C-D95E-4EDE-B038-4EBB7F1A4787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7ACF7C-D95E-4EDE-B038-4EBB7F1A4787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7ACF7C-D95E-4EDE-B038-4EBB7F1A4787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0246E73C-2DD5-4F27-8342-A6181B8663E8}
+	EndGlobalSection
+EndGlobal
